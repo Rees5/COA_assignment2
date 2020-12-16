@@ -96,7 +96,7 @@ cout<<"\n3. Binary is the basic computer arithmetic language.\nTo perform an ope
 cout<<"\n==========================================================================\n";
 int opt;
 do {
-   cout<<"\nChoose an your desired test operation\n";
+   cout<<"\nChoose your desired test operation\n";
    cout<<"\n1. Decimal to Binary Conversion\n2. ASCII Lookup \n3.Exit\n";
    cin>>opt;
    if(opt==1){

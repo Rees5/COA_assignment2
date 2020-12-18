@@ -16,7 +16,7 @@ Open the URL https://github.com/Rees5/COA_assignment2.git and download it as zip
 - To execute the programs, open the subfolders per question e.g Q2a and double click on the .exe file in this case Q2a.exe to generate the output.
 - If the .exe file is missing, double click on the .cpp file or open it from codeblocks or your prefered IDE then build and run it.
 
-# 💬 BDD
+# 📈 BDD
 ## Sample Output.
 ### Q2 a
 <a href="https://ibb.co/mccMhKN"><img src="https://i.ibb.co/VqqPMGw/Q2a-Output.jpg" alt="Q2a-Output" border="0"></a>

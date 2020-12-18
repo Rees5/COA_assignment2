@@ -8,7 +8,7 @@ To successfully run the program, check that the standard c++ compiler is added.
 For instance in codeblocks, got to **Settings** > **Compiler** > **Compiler Settings** and check the following
 - `Have g++ follow the C++11 ISO C++ language standard` `-std=c++11`
 ## Setting up Code Blocks IDE
-![Setting Up Codeblocks](https://i.ibb.co/ysmnMNd/setting-up-IDE.gif)
+<a href="https://ibb.co/JkWRbcm"><img src="https://i.ibb.co/ysmnMNd/setting-up-IDE.gif" alt="setting-up-IDE" border="0"></a>
 
 # 🚦 Installation
 Open the URL https://github.com/Rees5/COA_assignment2.git and download it as zip.

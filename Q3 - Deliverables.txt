@@ -1,0 +1,3 @@
+Deliverables:
+Images of the working program have been attached in the various sub folders
+Instructions on how to install and run the progrm are located in the README.md
